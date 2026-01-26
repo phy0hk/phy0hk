@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java Spring ,Js and Go<br>⚡ Fun fact I am really quick to learn
+🌱 I’m currently learning Ts and Go<br>⚡ Fun fact I am really quick to learn
 
 
 ## 🌐 Socials:
