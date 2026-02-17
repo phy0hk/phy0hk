@@ -10,3 +10,10 @@
 [![](https://visitcount.itsvg.in/api?id=phy0hk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phy0hk&show_icons=true&locale=en&layout=compact" alt="phy0hk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phy0hk&show_icons=true&locale=en" alt="phy0hk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phy0hk&" alt="phy0hk" /></p>
